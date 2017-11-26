@@ -1,0 +1,2 @@
+Java: 3: Mon: 1: 3
+Korean: 3: Tue: 5: 3
